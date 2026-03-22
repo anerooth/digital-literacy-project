@@ -1,8 +1,11 @@
 Digital Literacy Portfolio (CSE0001)
 
 Name: Anerooth P K 
+
 Registration Number: 25BOE10101 
+
 Branch: Bioengineering 
+
 Institution: VIT Bhopal University 
 
 
