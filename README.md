@@ -53,6 +53,7 @@ Prevention: Created a "Stay Safe Online" checklist with 8 actionable tips, inclu
 
 
 Project Links
-Digital Literacy Awareness Quiz (Google Form): View Form 
+Digital Literacy Awareness Quiz (Google Form): https://docs.google.com/forms/d/e/1FAIpQLSdgVefV2SwRqu4vKoRVV7iPpmeKlx3UC74YMS_Or-sI_dohxA/viewform?usp=publish-editor
 
-Professional LinkedIn Profile: LinkedIn# digital-literacy-project
+
+Professional LinkedIn Profile: https://www.linkedin.com/in/anerooth-p-k-020673368?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
